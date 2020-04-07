@@ -1,0 +1,3 @@
+[submodule "schmitz-particle"]
+	path = schmitz-particle
+	url = https://github.com/gabrielmuller/schmitz-particle
